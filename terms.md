@@ -1,4 +1,4 @@
-# Terms of Use — 21 Glasses Digital Listing Draft Tool
+# Terms of Use — 21 Glasses Digital Asset Draft Tool
 
 **Last updated:** March 22, 2026
 
