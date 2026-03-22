@@ -1,9 +1,9 @@
-# Privacy Policy — GeekChic Digital Listing Draft Tool
+# Privacy Policy — 21 Glasses Digital Listing Draft Tool
 
-**Last updated:** February 20, 2026
+**Last updated:** March 22, 2026
 
 ## Summary
-GeekChic Listing Draft Tool is a private, seller-only tool used to create and update **draft** listings for my own shop. It is not offered to the public.
+21 Glasses Digital Listing Draft Tool is a private, seller-only tool used to create and update **draft** listings for my own shop. It is not offered to the public.
 
 ## Information the tool uses
 The tool uses and/or transmits only what is needed to create and update listing drafts, such as:
@@ -34,4 +34,4 @@ Because this tool is private and used only by me, there are no end-user accounts
 
 ## Contact
 If you have questions about this policy, contact:
-**21glassesLLC@gmail.com**
+**jennifer.burnes@gmail.com**
