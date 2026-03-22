@@ -3,7 +3,7 @@
 **Last updated:** March 22, 2026
 
 ## Summary
-21 Glasses Digital Listing Draft Tool is a private, seller-only tool used to create and update **draft** listings for my own shop. It is not offered to the public.
+21 Glasses Digital Asset Draft Tool is a private, seller-only tool used to create and update **draft** listings for my own shop. It is not offered to the public.
 
 ## Information the tool uses
 The tool uses and/or transmits only what is needed to create and update listing drafts, such as:
