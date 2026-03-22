@@ -1,4 +1,4 @@
-# Privacy Policy — 21 Glasses Digital Listing Draft Tool
+# Privacy Policy — 21 Glasses Digital Asset Draft Tool
 
 **Last updated:** March 22, 2026
 
