@@ -3,7 +3,7 @@
 **Last updated:** March 22, 2026
 
 ## 1) Who this tool is for
-21 Glasses Digital Listing Draft Tool is a private, seller-only tool used by me to help create and update **draft** listings for my own shop. It is not offered to the public.
+21 Glasses Digital Asset Draft Tool is a private, seller-only tool used by me to help create and update **draft** listings for my own shop. It is not offered to the public.
 
 ## 2) What the tool does
 The tool helps generate and update listing drafts by sending listing content and media that I provide (e.g., titles, descriptions, tags, prices, images, and digital files) to Etsy through Etsy’s API. The tool does **not** publish listings. I manually review and activate drafts in Etsy.
