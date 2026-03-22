@@ -1,6 +1,6 @@
-# GeekChic Digital Listing Draft Tool (Public Info)
+# 21 Glasses Digital Listing Draft Tool (Public Info)
 
-This repository contains only the public landing page and policies for **GeekChic Listing Draft Tool**.
+This repository contains only the public landing page and policies for **21Glasses Digital Asset Tool**.
 
 - No source code is included here.
 - The actual tool is private and used only by the shop owner to create/update **draft** digital listings.
