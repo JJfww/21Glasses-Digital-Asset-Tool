@@ -1,4 +1,4 @@
-# 21 Glasses Digital Asset Tool (Public Info)
+# 21 Glasses Digital Asset Draft Tool (Public Info)
 
 This repository contains only the public landing page and policies for **21Glasses Digital Asset Tool**.
 
