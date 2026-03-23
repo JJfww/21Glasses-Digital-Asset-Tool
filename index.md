@@ -4,7 +4,7 @@
 A private, seller-only tool I run for **my own shop** to create and update **DRAFT** digital listings using the  :contentReference[oaicite:0]{index=0} Open API v3 (OAuth 2.0; listings write scope).
 
 ## Why I need the API
-I sell digital downloads and create many similar listings. This tool reduces manual entry and formatting errors by generating drafts from my local product catalog.
+My store currently is mostly POD but I do have some digital downloads. I am wanting to expand my offerings in that domain due to the number of reqests I get for digital downloads. Many listings will be similar in the sizes/scope of offerings. This tool reduces manual entry and formatting errors by generating drafts from my local product catalog.
 
 ## What it does (draft-only)
 - Creates new **draft** listings and updates existing **draft** listings
